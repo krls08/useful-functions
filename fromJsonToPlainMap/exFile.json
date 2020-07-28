@@ -1,0 +1,14 @@
+{
+    "Name1": "Value1",
+    "Name2": "Value2",
+    "Name3":{
+        "Name3.1": "Value3.1",
+        "Name3.2": "Value3.2"
+    },
+    "Name4": "Value4",
+    "Name5":[
+        "Value5.1",
+        "Value5.2",
+        "Value5.3"
+    ]
+}
