@@ -7,3 +7,5 @@ printf "=================================\n"
 var1="$(pwd)/node_modules/@angular/cli/bin/ng"
 printf "$var1\n"
 alias ngt="$(pwd)/node_modules/@angular/cli/bin/ng"
+
+echo "source this file:\n $ source tempAngularAlias.sh"
